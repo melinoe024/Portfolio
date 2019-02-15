@@ -1,2 +1,2 @@
-# Portfolio
-Min Joo Kim Portfolio
+# Min Joo Kim
+This portfolio is the place where I record my Data Science projects. The key aspects of this is to motivate myself to do self-learning, keep track of my progress, learn from the past mistakes and schedule the future studies. I'm aiming to update this page regularly.  
