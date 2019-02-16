@@ -22,3 +22,13 @@ Understand the business values and sales poinnt of this product, and create a pr
 | :---: | :---: | :---: | :---: |
 | [Youtube](https://youtu.be/TK4TLvg2tqI) | Presentation, Video Editing, Creative Design, Summarising the key points | Gom Mix (video editer)  | 11.2018 |
   
+
+## Korean Welfare
+- Challenge    
+Analyse the life of people living in Korea and find out their trend.    
+- Description    
+Extract the key factors from big data and preprocess and analyse the dataset to find out the trend and characteristics.    
+
+| Implementation | Dataset | Skills | Tools | Period |
+| :---: | :---: | :---: | :---: | :---: |
+| [Github](https://github.com/melinoe024/Korean-Welfare/blob/master/korean_welfare.pdf) | Korean welfare from 2006 to 2015 | Big data management, Data cleaning, Data preprocessing, Data visualisation, Data analysis | R  | 12.2018 |
