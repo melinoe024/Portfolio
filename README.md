@@ -9,8 +9,16 @@ What causes the water pipe failures to occur in Sydney region?
 - Description    
 Create a Web Application so that the user can sign in and upload their own water pipe raw dataset. This dataset should be joined with the up-to-date weather dataset downloaded from BOM. Once the dataset is ready for the analysis, the user can choose factors and graph type for data visualisation, and result should be displayed on the web application. 
 
-
 | Implementation | Dataset | Skills | Tools | Period |
 | :---: | :---: | :---: | :---: | :---: |
-| [Github](https://github.com/melinoe024/Water-Pipe-Failure) | Water pipes information, Water pipe failure incidents, Max temperature, Min temperature, Rainfall | Web development, Data cleaning, Data preprocessing, Data acquisition, Data management, Data modelling, Data visualisation | Python (flask and pandas main), HTML, CSS  | Jul 2018 - Nov 2018 |
+| [Github](https://github.com/melinoe024/Water-Pipe-Failure) | Water pipes information, Water pipe failure incidents, Max temperature, Min temperature, Rainfall | Collaboration, Web development, Data cleaning, Data preprocessing, Data acquisition, Data management, Data modelling, Data visualisation | Python (flask and pandas main), HTML, CSS  | Jul 2018 - Nov 2018 |
 
+- Challenge    
+Create a promotion video of this web application.    
+- Description    
+Understand the business values and sales poinnt of this product, and create a promotion video to summarise them.    
+
+| Implementation | Skills | Tools | Period |
+| :---: | :---: | :---: | :---: | :---: |
+| [Youtube](https://youtu.be/TK4TLvg2tqI) | Presentation, Video Editing, Creative Design, Summarising the key points | Gom Mix (video editer)  | Nov 2018 |
+  
