@@ -12,7 +12,7 @@ Study the past water pipe failure records occurred in Sydney region and create a
 
 | Implementation | Dataset | Skills | Tools | Period |
 | :---: | :---: | :---: | :---: | :---: |
-| [Github](https://github.com/melinoe024/Water-Pipe-Failure) | Water pipes information, Water pipe failure incidents, Max temperature, Min temperature, Rainfall | Collaboration, Web development, Data cleaning, Data preprocessing, Data acquisition, Data management, Data modelling, Data visualisation | Python (flask and pandas main), HTML, CSS  | 07.2018 - 11.2018 |
+| [Github](https://github.com/melinoe024/Water-Pipe-Failure) | Water pipes information, Water pipe failure incidents, Max temperature, Min temperature, Rainfall | Collaboration, Web development, Data cleaning, Data preprocessing, Data acquisition, Data management, Data modelling, Data visualisation | Python, HTML, CSS  | 07.2018 - 11.2018 |
 
 ### Promotion Video of the Water Pipe Application
 - Challenge    
@@ -33,4 +33,15 @@ Extract the key factors from big data and preprocess and analyse the dataset to 
 
 | Implementation | Dataset | Skills | Tools | Period |
 | :---: | :---: | :---: | :---: | :---: |
-| [Github](https://github.com/melinoe024/Korean-Welfare/blob/master/korean_welfare.pdf) | Korean welfare from 2006 to 2015 | Big data management, Data cleaning, Data preprocessing, Data visualisation, Data analysis | R  | 12.2018 |
+| [Github](https://github.com/melinoe024/Korean-Welfare/blob/master/korean_welfare.pdf) | Korean welfare from 2006 to 2015 | Big data management, Data cleaning, Data preprocessing, Data visualisation, Data analysis | R  | 02.2018 |
+
+
+### Olympics Data Search Engine
+- Challenge    
+Implement the Olympics database queries that can receive user interaction from the web application.    
+- Description    
+User wants to login to the flask-based python Olympics web application with search engine. Available information includes transport bookings, accommodation bookings, events, participants, etc. Based on the user interaction, the query should return correct results.    
+
+| Implementation | Dataset | Skills | Tools | Period |
+| :---: | :---: | :---: | :---: | :---: |
+| [Github](https://github.com/melinoe024/Olympics-database/blob/master/database.py), [ER diagram](https://docs.google.com/drawings/d/1p_AKA6qimBsqZif2K-ZlkVYvYR3TOejE3nSymZmMGec/edit?usp=sharing)| Olympics information | Different queries, linking SQL with web application | Python, SQL | 03.2017 - 05.2017 |
