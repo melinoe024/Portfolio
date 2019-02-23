@@ -12,7 +12,7 @@ Study the past water pipe failure records occurred in Sydney region and create a
 
 | Implementation | Dataset | Skills | Tools | Period |
 | :---: | :---: | :---: | :---: | :---: |
-| [Github](https://github.com/melinoe024/Water-Pipe-Failure) | Water pipes information, Water pipe failure incidents, Max temperature, Min temperature, Rainfall | Collaboration, Web development, Data cleaning, Data preprocessing, Data acquisition, Data management, Data modelling, Data visualisation | Python, HTML, CSS  | 07.2018 - 11.2018 |
+| [Github](https://github.com/melinoe024/Water-Pipe-Failure) | Water pipes information, Water pipe failure incidents, Max temperature, Min temperature, Rainfall | Consulting, Unit Testing, Acceptance Testing, Usability Testing, Collaboration, Web development, Data cleaning, Data preprocessing, Data acquisition, Data management, Data modelling, Data visualisation | Python, HTML, CSS  | 07.2018 - 11.2018 |
 
 ### Promotion Video of the Water Pipe Application
 - Challenge    
@@ -45,3 +45,14 @@ User wants to login to the flask-based python Olympics web application with sear
 | Implementation | Dataset | Skills | Tools | Period |
 | :---: | :---: | :---: | :---: | :---: |
 | [Github](https://github.com/melinoe024/Olympics-database/blob/master/database.py), [ER diagram](https://docs.google.com/drawings/d/1p_AKA6qimBsqZif2K-ZlkVYvYR3TOejE3nSymZmMGec/edit?usp=sharing)| Olympics information | Different queries, linking SQL with web application | Python, SQL | 03.2017 - 05.2017 |
+
+
+### Video Game Analysis    
+- Challenge    
+Which game to play? What is the best game that I can play with trust?    
+- Description    
+Analysing the factors like sales amount, regions, genres or publisher, select the best games that were been approved by most of the people.    
+
+| Implementation | Dataset | Skills | Tools | Period |
+| :---: | :---: | :---: | :---: | :---: |
+| [Github](https://github.com/melinoe024/Video-Game/blob/master/video_games_analysis.pdf)| Video Game Dataset from Kaggle | Data Analysis | R | 03.2018 |
