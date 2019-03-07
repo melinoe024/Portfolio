@@ -1,7 +1,7 @@
 # Min Joo Kim
 
 ## About
-This portfolio is the place where I record my Data Science projects. The key aspects of this is to motivate myself to do self-learning, keep track of my progress, learn from the past mistakes and schedule the future studies. I'm aiming to update this page regularly.  
+This is the place where I record my projects focused on Data Science. The key aspects of this is to motivate myself to do self-learning, keep track of my progress, learn from the past mistakes and schedule the future studies. I'm aiming to update this page regularly.  
 
 ## Projects
 ### Water Pipe Failure Web Application
@@ -55,4 +55,4 @@ Analysing the factors like sales amount, regions, genres or publisher, select th
 
 | Implementation | Dataset | Skills | Tools | Period |
 | :---: | :---: | :---: | :---: | :---: |
-| [Github](https://github.com/melinoe024/Video-Game/blob/master/video_games_analysis.pdf)| Video Game Dataset from Kaggle | Data Analysis | R | 03.2018 |
+| [Github](https://github.com/melinoe024/Video-Game/blob/master/video_games_analysis.pdf)| Video Game Dataset from Kaggle | Data Analysis | R | 02.2019 |
